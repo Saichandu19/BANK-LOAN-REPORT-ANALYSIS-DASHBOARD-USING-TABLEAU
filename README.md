@@ -148,4 +148,4 @@ The Details Dashboard serves as a comprehensive view of all essential loan data,
 - This dashboard provides an in-depth analysis of the bank's loan portfolio, helping users drill down into specific aspects of loan performance.
 
 
-![alttext](https://github.com/Saichandu19/BANK-LOAN-REPORT-ANALYSIS-DASHBOARD-USING-TABLEAU/blob/main/DETAILS_DASHBOARD.png?raw=true)
+
