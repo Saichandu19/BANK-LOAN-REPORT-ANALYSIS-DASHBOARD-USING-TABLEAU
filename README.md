@@ -1,7 +1,7 @@
 # BANK LOAN REPORT ANALYSIS USING TABLEAU
 
 
-"In this project, I developed a comprehensive Bank Loan Report using Tableau Public, structured across three distinct dashboards—Summary, Overview, and Details. Each dashboard serves a specific purpose in analyzing and visualizing key loan-related metrics, enabling data-driven decision-making and performance monitoring.
+In this project, I developed a comprehensive Bank Loan Report using Tableau Public, structured across three distinct dashboards—Summary, Overview, and Details. Each dashboard serves a specific purpose in analyzing and visualizing key loan-related metrics, enabling data-driven decision-making and performance monitoring.
 ## Summary Dashboard
 
 **Purpose:**  
@@ -27,6 +27,70 @@ This dashboard serves as a valuable tool for evaluating the bank's loan performa
 
 
 ![alttext](https://github.com/Saichandu19/BANK-LOAN-REPORT-ANALYSIS-DASHBOARD-USING-TABLEAU/blob/main/SUMMARY_DASHBOARD.png?raw=true)
+
+# Bank Loan Report Analysis
+
+## 1. Total Loan Applications
+- **Total**: 38.6k (Good: 33.2k, Bad: 5.3k)
+- **Month-to-Date**: 4,314
+- **Previous Month-to-Date**: 4,035
+- **Possible Reasons**:
+  - The increase in loan applications from 4,035 to 4,314 month-to-date suggests a growing interest in loans or an increase in marketing efforts.
+  - A large portion of applications is categorized as 'Good,' indicating a strong portfolio quality. The 'Bad' loans make up a smaller percentage, which is positive for the bank's risk management.
+
+## 2. Total Funded Amount
+- **Total**: $435.8 million (Good: $370.2 million, Bad: $65.5 million)
+- **Total Amount Received**: $473.1 million (Good: $370.2 million, Bad: $65.5 million)
+- **Possible Reasons**:
+  - The funded amount and received amount are closely aligned, suggesting effective loan disbursement and repayment processes.
+  - The significant difference between 'Good' and 'Bad' funded amounts shows that most of the funds are being disbursed to higher-quality loans, which could imply prudent lending practices.
+
+## 3. Average Interest Rate
+- **Rate**: 12%
+- **Possible Reasons**:
+  - This average rate reflects the overall cost of borrowing for the bank's loan portfolio. If the rate is relatively high, it could be a strategy to compensate for the risk associated with lending or to cover operational costs.
+
+## 4. Average Debt-to-Income Ratio
+- **Ratio**: 13.3%
+- **Possible Reasons**:
+  - A lower average DTI ratio indicates that borrowers are relatively less leveraged, which reduces the risk for the bank and suggests that the borrowers are in a good financial position to manage their loans.
+
+## 5. Regional Analysis
+- **Most Applications from California**: 6,894
+- **Possible Reasons**:
+  - California’s high number of applications could be due to its large population, economic activity, or targeted marketing efforts in that state. This indicates a potential focus area for expansion or increased marketing.
+
+## 6. Trends Over Time
+- **Observation**: Increase from January to December
+- **Possible Reasons**:
+  - The steady increase in applications throughout the year might be related to seasonal factors, changing economic conditions, or year-end financial planning by borrowers.
+
+## 7. Loan Application by Employee Length
+- **More for 10+ Years of Experience**
+- **Possible Reasons**:
+  - Borrowers with longer employment history may be perceived as more stable and reliable, leading to a higher number of applications from this group. This reflects a preference or better qualification among more experienced employees.
+
+## 8. Loan Purpose Breakdown
+- **Majority for Debt Consolidation**: 18.2k
+- **Possible Reasons**:
+  - The high number of applications for debt consolidation suggests borrowers are seeking to manage or reduce existing debt, possibly due to financial strain or high interest rates on current debts.
+
+## 9. Home Ownership Analysis
+- **Rent Type and Mortgage Type Almost Equal**
+- **Possible Reasons**:
+  - The near-equal distribution between renters and those with mortgages suggests a balanced approach to lending across different home ownership statuses, indicating the bank's inclusive lending strategy.
+
+## 10. Loan Term Analysis
+- **60 Months**: 73.2%
+- **30 Months**: 26.8%
+- **Possible Reasons**:
+  - A higher percentage of long-term loans (60 months) indicates borrowers may prefer extended repayment periods for lower monthly payments. This could also reflect favorable terms or financial planning preferences.
+
+## 11. Filters Used
+- **Verification Status**: Ensures data reliability and accuracy in assessing borrower credibility.
+- **Purpose**: Helps segment loans based on borrower intentions, allowing for customized loan offerings.
+- **Grade**: Provides a risk classification to manage and assess the risk associated with loans.
+
 
 
 ## Overview Dashboard
