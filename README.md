@@ -92,6 +92,9 @@ This dashboard serves as a valuable tool for evaluating the bank's loan performa
 - **Grade**: Provides a risk classification to manage and assess the risk associated with loans.
 
 
+  ![alttext](https://github.com/Saichandu19/BANK-LOAN-REPORT-ANALYSIS-DASHBOARD-USING-TABLEAU/blob/main/OVERVIEW_DASHBOARD.png?raw=true)
+
+
 
 ## Overview Dashboard
 
@@ -125,8 +128,8 @@ The Overview Dashboard visually represents critical loan metrics and trends usin
   - **Insights:** It helps in understanding the relationship between home ownership and borrowing behavior, which can be useful for risk assessment and product segmentation.
 
 
+![alttext](https://github.com/Saichandu19/BANK-LOAN-REPORT-ANALYSIS-DASHBOARD-USING-TABLEAU/blob/main/DETAILS_DASHBOARD.png?raw=true)
 
-![alttext](https://github.com/Saichandu19/BANK-LOAN-REPORT-ANALYSIS-DASHBOARD-USING-TABLEAU/blob/main/OVERVIEW_DASHBOARD.png?raw=true)
 
 ## Details Dashboard
 
