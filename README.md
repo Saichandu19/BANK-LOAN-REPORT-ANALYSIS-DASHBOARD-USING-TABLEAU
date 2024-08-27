@@ -28,6 +28,38 @@ This dashboard serves as a valuable tool for evaluating the bank's loan performa
 
 ![alttext](https://github.com/Saichandu19/BANK-LOAN-REPORT-ANALYSIS-DASHBOARD-USING-TABLEAU/blob/main/SUMMARY_DASHBOARD.png?raw=true)
 
+## Overview Dashboard
+
+**Purpose:**  
+The Overview Dashboard visually represents critical loan metrics and trends using a variety of chart types, providing a detailed look at lending activities from multiple angles.
+
+**Key Charts:**
+
+- **Monthly Trends by Issue Date (Line Chart):**
+  - **Details:** This line chart tracks Total Loan Applications, Total Funded Amount, and Total Amount Received over time, with the X-axis representing months and the Y-axis showing metric values.
+  - **Insights:** It reveals seasonal patterns and long-term trends, allowing the bank to understand fluctuations in lending activity and adjust strategies accordingly.
+
+- **Regional Analysis by State (Filled Map):**
+  - **Details:** This map is color-coded by state, showing lending metrics like Total Loan Applications, Total Funded Amount, and Total Amount Received across different regions.
+  - **Insights:** It highlights regional disparities, helping the bank identify high-performing areas and potential markets for expansion.
+
+- **Loan Term Analysis (Donut Chart):**
+  - **Details:** The donut chart segments loans by term length (e.g., 36 months, 60 months), with each segment representing the proportion of Total Loan Applications, Total Funded Amount, and Total Amount Received.
+  - **Insights:** This chart provides insights into borrower preferences for loan terms, which can inform the bank’s product offerings.
+
+- **Employee Length Analysis (Bar Chart):**
+  - **Details:** This bar chart displays lending metrics based on borrowers' employment length categories, such as 1 year, 5 years, and 10+ years.
+  - **Insights:** It helps the bank understand how employment stability influences loan applications and repayments.
+
+- **Loan Purpose Breakdown (Bar Chart):**
+  - **Details:** The bar chart categorizes loans by their stated purposes, such as debt consolidation or credit card refinancing.
+  - **Insights:** It shows the primary reasons borrowers seek loans, aiding in targeted marketing and product development.
+
+- **Home Ownership Analysis (Tree Map):**
+  - **Details:** This tree map categorizes loans by home ownership status (e.g., own, rent, mortgage), with each segment’s size reflecting lending metrics.
+  - **Insights:** It helps in understanding the relationship between home ownership and borrowing behavior, which can be useful for risk assessment and product segmentation.
+
+
 
 ![alttext](https://github.com/Saichandu19/BANK-LOAN-REPORT-ANALYSIS-DASHBOARD-USING-TABLEAU/blob/main/OVERVIEW_DASHBOARD.png?raw=true)
 
