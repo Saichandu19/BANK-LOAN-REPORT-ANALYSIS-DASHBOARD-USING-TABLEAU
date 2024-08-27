@@ -63,4 +63,21 @@ The Overview Dashboard visually represents critical loan metrics and trends usin
 
 ![alttext](https://github.com/Saichandu19/BANK-LOAN-REPORT-ANALYSIS-DASHBOARD-USING-TABLEAU/blob/main/OVERVIEW_DASHBOARD.png?raw=true)
 
+## Details Dashboard
+
+**Purpose:**  
+The Details Dashboard serves as a comprehensive view of all essential loan data, allowing users to access critical information efficiently.
+
+**Details:**  
+- It includes a grid view categorized by loan status, showing metrics such as:
+  - **Total Loan Applications**
+  - **Funded Amounts**
+  - **Amounts Received**
+  - **Month-to-Date (MTD) metrics**
+  - **Average Interest Rates**
+  - **Debt-to-Income Ratios**
+
+- This dashboard provides an in-depth analysis of the bank's loan portfolio, helping users drill down into specific aspects of loan performance.
+
+
 ![alttext](https://github.com/Saichandu19/BANK-LOAN-REPORT-ANALYSIS-DASHBOARD-USING-TABLEAU/blob/main/DETAILS_DASHBOARD.png?raw=true)
