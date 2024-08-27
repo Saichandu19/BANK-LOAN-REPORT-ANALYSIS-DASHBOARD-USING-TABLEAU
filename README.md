@@ -28,6 +28,7 @@ This dashboard serves as a valuable tool for evaluating the bank's loan performa
 
 ![alttext](https://github.com/Saichandu19/BANK-LOAN-REPORT-ANALYSIS-DASHBOARD-USING-TABLEAU/blob/main/SUMMARY_DASHBOARD.png?raw=true)
 
+
 ## Overview Dashboard
 
 **Purpose:**  
